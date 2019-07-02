@@ -1,5 +1,5 @@
 /*
- * Executed in an "GeForce GTX 950M" with
+ * Executed in a "GeForce GTX 950M" with
  * (5) Multiprocessors, (128) CUDA Cores/MP
  */
 
